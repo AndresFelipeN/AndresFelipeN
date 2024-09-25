@@ -5,18 +5,15 @@
   •
   <p1> Figma </p1>
   •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  <p1> Amgular </p1>
   •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  <p1> Netapp </p1>
   •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  <p1> Express.js </p1>
   •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+  <p1> Git </p1>
   •
-  <a href="https://ossinsight.io/blog">Blog</a>
+  <p1> Mongo DB </p1>
   •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h3>
+ </h3>
 
