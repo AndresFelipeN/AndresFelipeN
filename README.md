@@ -16,3 +16,17 @@
   <p1> Mongo DB </p1>
  </h3>
 
+
+
+
+ <h2> About Me </h2>
+
+- I'm a system ingenierring student
+  
+- Fucll-stack developer
+  
+- I'm a technical support engineer at Netapp
+
+<h2> Connect with me  </h2>
+<a href = 'https://www.linkedin.com/in/andresfelipegonzalezn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
