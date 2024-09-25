@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Andres Felipe 👋 </h1>
+<h1 align="center">Hi there, I'm Andres Felipe </h1>
 
 <h4 align="center">
   <p1> Node.js </p1>
