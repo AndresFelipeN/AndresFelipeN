@@ -25,7 +25,7 @@
   
 - Fucll-stack developer
   
-- Currettly working as a technical support engineer at Netapp
+- Curretly working as a technical support engineer at Netapp
 
 <h2> Connect with me  </h2>
 <a href = 'https://www.linkedin.com/in/andresfelipegonzalezn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
