@@ -5,7 +5,7 @@
   •
   <p1> Figma </p1>
   •
-  <p1> Amgular </p1>
+  <p1> Angular </p1>
   •
   <p1> Netapp </p1>
   •
