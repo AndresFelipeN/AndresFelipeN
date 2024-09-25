@@ -21,7 +21,7 @@
 
  <h2> About Me </h2>
 
-- I'm a system ingenierring student
+- I'm a system ingeniering student
   
 - Fucll-stack developer
   
