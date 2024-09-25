@@ -23,7 +23,7 @@
 
 - I'm a system ingeniering student
   
-- Fucll-stack developer
+- Full-stack developer
   
 - Curretly working as a technical support engineer at Netapp
 
